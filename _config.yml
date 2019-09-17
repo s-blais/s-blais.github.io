@@ -1,11 +1,11 @@
 # Site settings
-author: Stephen Blais
-title: 
+author: SB
+title: The Missing Semicolon
 header-img: img/home-bg.png
 email: stephen@s-blais.com
-copyright_name: Stephen Blais
+copyright_name: SB
 description: > # this means to ignore newlines until "baseurl:"
-  
+  - the only wrong first step is not taking a first step -
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: the_s_blais
 github_username:  s-blais
