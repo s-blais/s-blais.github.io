@@ -5,7 +5,7 @@ header-img: img/home-bg.png
 email: stephen@s-blais.com
 copyright_name: SB
 description: > # this means to ignore newlines until "baseurl:"
-  - the only wrong first step is not taking a first step -
+  Stirring some full-stack web developerosity into this recipe for a new taste sensation
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: the_s_blais
 github_username:  s-blais
